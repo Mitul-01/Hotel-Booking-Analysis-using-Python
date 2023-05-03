@@ -14,7 +14,7 @@ Assumptions
 6. Cancellations result in vacant rooms for the booked length of time
 7. Clients make hotels reservations, the same year they make cancellations
 
-Data Analysis and Visualizations is done through the Uploaded PPT
+Data Analysis and Visualizations is done go through the presentation which is uploaded as PowerpointPresentation
 
-
+Thank You
 
